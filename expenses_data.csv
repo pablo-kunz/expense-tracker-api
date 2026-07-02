@@ -1,0 +1,31 @@
+date,category,amount,description
+2026-01-05,Raw Materials,15000.0,Steel sheets
+2026-01-12,Supplies,3200.0,Office supplies
+2026-01-18,Services,8500.0,Electricity bill
+2026-01-22,Logistics,4700.0,Freight delivery
+2026-01-30,Maintenance,2100.0,Machine repair
+2026-02-03,Raw Materials,18000.0,Aluminum rods
+2026-02-10,Supplies,1500.0,Cleaning products
+2026-02-14,Services,8500.0,Electricity bill
+2026-02-19,Logistics,5200.0,Freight delivery
+2026-02-25,Salaries,45000.0,Monthly payroll
+2026-03-04,Raw Materials,12000.0,Plastic components
+2026-03-11,Supplies,2800.0,Safety equipment
+2026-03-15,Services,9100.0,Electricity bill
+2026-03-20,Logistics,3900.0,Freight delivery
+2026-03-28,Maintenance,6500.0,Equipment overhaul
+2026-04-02,Raw Materials,20000.0,Steel sheets
+2026-04-09,Supplies,1800.0,Office supplies
+2026-04-16,Services,8700.0,Electricity bill
+2026-04-23,Logistics,4100.0,Freight delivery
+2026-04-30,Salaries,45000.0,Monthly payroll
+2026-05-06,Raw Materials,16500.0,Aluminum rods
+2026-05-13,Supplies,3100.0,Cleaning products
+2026-05-19,Services,9300.0,Electricity bill
+2026-05-24,Logistics,5800.0,Freight delivery
+2026-05-29,Maintenance,1800.0,Machine repair
+2026-06-04,Raw Materials,14000.0,Plastic components
+2026-06-11,Supplies,2500.0,Safety equipment
+2026-06-17,Services,8900.0,Electricity bill
+2026-06-22,Logistics,4400.0,Freight delivery
+2026-06-30,Salaries,45000.0,Monthly payroll
